@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	output = flag.String("output", "output.png", "Place output into this")
+	output = flag.String("output", "output.png", "Place the output into output.png")
 )
 
 func main() {
